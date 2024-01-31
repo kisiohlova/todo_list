@@ -2,6 +2,9 @@
 
 This todo list app is built with Ruby on Rails and utilizes the Hotwire technology stack. It serves as a practical project to enhance understanding of Hotwire's real-time updates and interactivity features.
 
+<img width="579" alt="image" src="https://github.com/kisiohlova/todo_list/assets/64698588/de7d2ecb-a362-4623-b16c-87e479e806b8">
+
+
 ## Requirements:
 * Ruby version: 3.1.2
 * Rails 7.0.8
@@ -36,5 +39,6 @@ This todo list app is built with Ruby on Rails and utilizes the Hotwire technolo
 
 * Open the app in your browser.
 * Create a new task using the input field.
+* Edit task by clicking on task name.
 * Mark tasks as complete or delete them.
 * Experience real-time updates as tasks are added or completed.
