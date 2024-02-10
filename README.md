@@ -31,7 +31,7 @@ This todo list app is built with Ruby on Rails and utilizes the Hotwire technolo
 4. Start the Rails server:
 
     ```bash
-     bin/dev
+     rails s
     ```
 5. Visit http://localhost:3000 in your browser.
 
